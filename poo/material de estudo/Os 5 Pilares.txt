@@ -1,0 +1,17 @@
+Tipos de Dados
+No Portugol são as definições das variáveis. por exemplo
+Inteiro, real, caractere, logico
+ 
+Operadores aritimeticos
+Eles são os grandes responsáveis pelo funcionamento e logica.
+Gosto de pensar que os operadores são o coração de uma linguagem
+ex: Se (x >= y) e (z <= q) ou (z - q <> x + y) então 
+
+Estruturas de controle
+Codigos de condição ou repetição
+
+Estrutura de dados
+São os vetores e as matrizes
+
+Fuçoes
+São os procedimentos  
