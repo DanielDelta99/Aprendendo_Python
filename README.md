@@ -1,29 +1,42 @@
-Minha Trajetória Aprendendo Python
-Compartilho minha jornada de aprendizado na linguagem Python, destacando os cursos realizados e os materiais práticos desenvolvidos.
+# **Minha Trajetória Aprendendo Python**  
 
-Curso: Python 3 - Curso em Vídeo.
-Instrutor: Prof. Gustavo Guanabara.
-Carga Horária: 120 horas.
-Descrição:
-O curso foi dividido em 3 módulos de 40 horas cada, abrangendo os fundamentos da linguagem Python, como:
+Bem-vindo ao repositório que documenta minha jornada de aprendizado na linguagem Python. Aqui você encontrará pastas organizadas com materiais de estudo, exercícios e projetos desenvolvidos ao longo dos cursos realizados.
 
-* Estruturas condicionais e de repetição
-* Funções e módulos
-* Manipulação de arquivos e listas
+---
 
-Organização das Pastas:
+## **📚 Curso: Python 3 - Curso em Vídeo**  
+**Instrutor:** Prof. Gustavo Guanabara  
+**Carga Horária:** 120 horas  
 
-* aulas/: Contém os arquivos de acompanhamento das aulas, como códigos comentados e exemplos práticos.
-* exercicios/: Mais de 100 exercícios resolvidos, cobrindo desde lógica básica até tópicos mais avançados.
+### **Descrição:**  
+O curso foi dividido em 3 módulos de 40 horas cada, cobrindo os fundamentos da linguagem Python, como:  
+- Estruturas condicionais e de repetição  
+- Funções e módulos  
+- Manipulação de arquivos e listas  
 
-Curso: Programação Orientada a Objetos em Python 3
-Carga Horária Estimada: Mais de 100 horas
-Descrição:
-Esse aprendizado foi fruto de um estudo independente, investindo tempo em materiais variados, aulas no YouTube e muita prática. Desenvolvi projetos aplicados para consolidar o conhecimento.
+### **📂 Estrutura das Pastas:**  
+- **`aulas/`**: Contém os arquivos de acompanhamento das aulas, com exemplos práticos e códigos comentados.  
+- **`exercicios/`**: Mais de 100 exercícios resolvidos, abordando desde lógica básica até tópicos avançados.
 
-Organização das Pastas:
+---
 
-poo/:
-* Pequenos projetos criados como exercícios práticos, utilizando conceitos de POO, como classes, herança e polimorfismo.
-* Subpasta materiais_de_estudo/: Reúne PDFs, anotações e tutoriais sobre programação orientada a objetos.
+## **📘 Curso: Programação Orientada a Objetos em Python 3**  
+**Carga Horária Estimada:** Mais de 100 horas  
 
+### **Descrição:**  
+Estudo independente baseado em materiais diversos, como vídeos no YouTube e tutoriais online, além de muita prática. Durante esse período, desenvolvi projetos reais para aplicar conceitos aprendidos.  
+
+### **📂 Estrutura das Pastas:**  
+- **`poo/`**:  
+  - Projetos desenvolvidos utilizando conceitos de POO (classes, herança, polimorfismo, etc.).  
+  - Subpasta **`materiais_de_estudo/`**: Contém PDFs, anotações e tutoriais sobre programação orientada a objetos.
+
+---
+
+## **🚀 Meu Objetivo**  
+Continuar aprofundando meus conhecimentos em Python, desenvolvendo projetos cada vez mais complexos e compartilhando aprendizados ao longo da jornada.
+
+---
+
+**🎉 Obrigado por visitar este repositório!**  
+Sinta-se à vontade para explorar os materiais e me dar feedback.
