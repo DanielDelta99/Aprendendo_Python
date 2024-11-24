@@ -1,9 +1,9 @@
-#Minha Trajetória Aprendendo Python
- Compartilho minha jornada de aprendizado na linguagem Python, destacando os cursos realizados e os materiais práticos desenvolvidos.
+Minha Trajetória Aprendendo Python
+Compartilho minha jornada de aprendizado na linguagem Python, destacando os cursos realizados e os materiais práticos desenvolvidos.
 
-Curso: Python 3 - Curso em Vídeo
-Instrutor: Prof. Gustavo Guanabara
-Carga Horária: 120 horas
+Curso: Python 3 - Curso em Vídeo.
+Instrutor: Prof. Gustavo Guanabara.
+Carga Horária: 120 horas.
 Descrição:
 O curso foi dividido em 3 módulos de 40 horas cada, abrangendo os fundamentos da linguagem Python, como:
 
