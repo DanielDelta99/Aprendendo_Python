@@ -1,0 +1,5 @@
+# Correrção, acrecentou .strip .rfind (-1)
+n = str(input('Digite uma frase: ')).strip()
+print('A letra A, aparece por {} vezes.'.format(n.lower().count('a')))
+print('A primeira vez que ela aparece é na casa {}.'.format(n.lower().find('a')+1))
+print('A Ultima vez que ela aparece é na casa {}.'.format(n.lower().rfind('a')+1))

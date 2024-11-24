@@ -1,0 +1,8 @@
+n1 = str(input('Digite seu nome: '))
+print('Nome todo em maiusculo: {}'.format(n1.upper()))
+print('Nome todo em minusculo: {}'.format(n1.lower()))
+n2 = len(n1) - n1.count(' ')
+print('Total de letras sem os espaços é de {} letras'.format(n2))
+lista = n1.split()
+n3 = len(lista[0])
+print('O primeiro nome é {} e tem {} letras no total'.format(lista[0],n3))

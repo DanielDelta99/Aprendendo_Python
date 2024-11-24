@@ -1,0 +1,12 @@
+Daniel Alves;26
+Amanda;23
+Joao;55
+Jose;45
+Pedro;66
+Meta;100
+Davi;110
+Amanda Alves;23
+Macos ;75
+Jose Bezerra de Bento;12
+Macedo da Costa;22
+jl;2

@@ -1,0 +1,9 @@
+n1 = int(input('1° Termo: '))
+c = int(input('Quantidade de termos: '))
+n2 = 0
+while c != 0:
+    c -= 1
+    n1 += n2
+    n2 += n1
+    print(n1,end=' ')
+    print(n2,end=' ')

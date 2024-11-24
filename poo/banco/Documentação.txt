@@ -1,0 +1,1 @@
+Nesse projeto foi desenvolvido um sistema simples de banco.
